@@ -12,6 +12,6 @@ Working of card view:-
 
 1) Swipe left or right to mark is as read
  
-2) There is an undo button if you want to read previious card
+2) There is an undo button if you want to read previous card
 
 3) There is also progress bar which shows the percentage of completed readings. 
