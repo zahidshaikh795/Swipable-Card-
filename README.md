@@ -6,7 +6,7 @@ pop
 
 For Swipabble Card view :
 
-I have used kolodaView whose files you can dowload from there pubic gibhub repository.
+I have used kolodaView whose files you can dowload from there pubic github repository(Yalantis/Koloda).
 
 Working of card view:-
 
